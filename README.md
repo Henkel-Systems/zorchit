@@ -1,6 +1,3 @@
-# zorchit
-A lightning-fast, PostgreSQL-backed task orchestrator written in Zig
-
 # ⚡ Zorchit
 
 > **Don't overcomplicate your task queues. Just Zorchit.**
